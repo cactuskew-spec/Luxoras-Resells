@@ -1,6 +1,0 @@
-{
-  "name": "Luxora Resells",
-  "description": "Luxora Resells – tai resellinimo serveris, skirtas padėti žmonėms išmokti resellinti ir geriau suprasti šią veiklą. Išskirtiniai drabužiai, produktai ir geriausios strategijos.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
